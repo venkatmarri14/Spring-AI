@@ -1,0 +1,10 @@
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\controller\AssistantRestController.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\ChatGPTCreateThreadResponse.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\SendMessageRequest.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\SpringBootChatGptAssistantApplication.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\ChatGPTCreateAssistantResponse.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\ChatGPTCreateMessageRequest.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\service\ChatGPTAssistantService.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\ChatGPTCreateAssistantRequest.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\ChatGPTRunsRequest.java
+C:\Users\Sugar\Downloads\SpringBoot-OpenAI-Assistant-main\SpringBoot-OpenAI-Assistant-main\src\main\java\com\thomasjayconsulting\springbootchatgptassistant\dto\CreateAssistantRequest.java
